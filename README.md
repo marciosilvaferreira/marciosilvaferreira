@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marciosilvaferreira
 - 👀 I’m interested in ...Esportes,tecnologia e estar com a  família.
-- 🌱 I’m currently learning ...Azure !!1
+- 🌱 I’m currently learning ...Cultura Devops, Shellcript, Introdução a Cloud, conceitos básicos de Azure, Kubernetes e Arquitetura em Cloud Computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
